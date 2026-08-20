@@ -1,0 +1,6 @@
+{
+  "name": "Artisanal Soy Candles & Botanicals Store",
+  "description": "A modern, eco-conscious e-commerce web application for hand-poured soy candles with product catalogs, interactive scent profiles, custom bundle builder, slide-out cart, and full checkout flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
